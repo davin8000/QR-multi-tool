@@ -1,0 +1,9 @@
+c:\users\davin\documents\visual studio 2013\Projects\QR\QR\bin\Debug\QR.exe.config
+c:\users\davin\documents\visual studio 2013\Projects\QR\QR\bin\Debug\QR.exe
+c:\users\davin\documents\visual studio 2013\Projects\QR\QR\bin\Debug\QR.pdb
+c:\users\davin\documents\visual studio 2013\Projects\QR\QR\obj\Debug\QR.csprojResolveAssemblyReference.cache
+c:\users\davin\documents\visual studio 2013\Projects\QR\QR\obj\Debug\QR.Form1.resources
+c:\users\davin\documents\visual studio 2013\Projects\QR\QR\obj\Debug\QR.Properties.Resources.resources
+c:\users\davin\documents\visual studio 2013\Projects\QR\QR\obj\Debug\QR.csproj.GenerateResource.Cache
+c:\users\davin\documents\visual studio 2013\Projects\QR\QR\obj\Debug\QR.exe
+c:\users\davin\documents\visual studio 2013\Projects\QR\QR\obj\Debug\QR.pdb
